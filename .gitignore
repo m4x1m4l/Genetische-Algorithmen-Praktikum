@@ -1,0 +1,41 @@
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+
+
+##############################
+## IntelliJ
+##############################
+out\
+.idea\
+.idea_modules\
+*.iml
+*.ipr
+*.iws
+
+##############################
+## IMage
+##############################
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
+*.png
+out/production/GA_Praktikum/Phenotype.class
+out/production/GA_Praktikum/GraphikBeispiel.class
+out/production/GA_Praktikum/Folding$1.class
+out/production/GA_Praktikum/Folding$FoldingDirection.class
+out/production/GA_Praktikum/Folding$RealtiveFoldingOrientation.class
+out/production/GA_Praktikum/Folding.class
+out/production/GA_Praktikum/Phenotype$1.class
+*.csv
